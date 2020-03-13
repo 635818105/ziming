@@ -1,0 +1,14 @@
+.idea/
+*~
+*~*
+*.pyc
+*.log
+11.sh
+.project
+.pydevproject
+.settings
+.env
+.devenv
+#apidoc/
+*.djcache
+__pycache__/
